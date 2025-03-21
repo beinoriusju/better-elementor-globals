@@ -15,6 +15,7 @@ The same applies to global custom typographies. For example, '--e-global-typogra
 1. Download the [latest release](https://github.com/pand0r/better-global-classnames/releases)
 2. Upload into your WordPress
 3. Activate the plugin through the 'Plugins' screen in WordPress
+4. Update color table at least once to take effect
 
 ## Changelog
 
